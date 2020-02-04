@@ -1,0 +1,14 @@
+---
+dz: &1 !ruby/object:Artist
+  name: daniel zhang
+  id: dz
+  track_list:
+  - !ruby/object:Track
+    name: watching the sky turn green
+    id: 1
+    player: *1
+artist_num: 2
+dz6846403961503418057: !ruby/object:Artist
+  name: daniel zheng
+  id: dz6846403961503418057
+  track_list: []
